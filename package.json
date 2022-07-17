@@ -12,5 +12,6 @@
     "discord.js": "^13.8.1"
   },
   "devDependencies": {
+    "eslint": "^8.20.0"
   }
 }
